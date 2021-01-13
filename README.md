@@ -1,2 +1,3 @@
-# COGS108_Repo
+# Hello everyone!
 Boning Yang's COGS 108 A1
+I love :dancer:
